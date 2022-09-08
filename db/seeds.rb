@@ -37,4 +37,13 @@ Product.create(
     "category": "jewelery",
     "id": 4
 )
+
+Product.create(
+    "title": "Silver ring",
+    "price": "50",
+    "description": "Cute Dainty silver ring with diamond.",
+    "image_url": "https://images.pexels.com/photos/7436138/pexels-photo-7436138.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "jewelery",
+    "id": 5
+)
 puts "✅ Done seeding!"
