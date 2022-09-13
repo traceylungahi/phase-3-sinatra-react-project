@@ -46,7 +46,7 @@ This repository has all the starter code needed to get a Sinatra backend up and 
 
 The `app/controllers/application_controller.rb` file is used to input the routes for the project.
 
-You can start your server with:
+The server can be started with:
 
 ```console
 $ bundle exec rake server
@@ -57,17 +57,7 @@ This will run your server on port:
 
 ### Frontend Setup
 
-Your backend and your frontend should be in **two different repositories**.
-
-Create a new repository in a **separate folder** with a React app for your
-frontend. To do this, `cd` out of the backend project directory, and use
-[create-react-app][] to generate the necessary code for your React frontend:
-
-```console
-$ npx create-react-app my-app-frontend
-```
-
-After creating the project locally, you should also [create a repository on GitHub][create repo] to host your repo and help collaborate, if you're working with a partner.
+[@TraceyLung'ahi](https://github.com/traceylungahi/Jewellery-store-App)
 
 ### Fetch Example
 
@@ -100,3 +90,7 @@ fetch("http://localhost:9292/test")
 [dbdiagram.io]: https://dbdiagram.io/
 [postman download]: https://www.postman.com/downloads/
 [network tab]: https://developer.chrome.com/docs/devtools/network/
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
